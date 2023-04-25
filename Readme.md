@@ -1,3 +1,3 @@
 # GitHub Course
 
-Arquivo da aula de Git e GitHub para iniciantes
+Este e um repositorio teste para ensinar como o Git funciona.
